@@ -8,10 +8,13 @@ const About = () => {
           </h1>
         </div>
         <p className="text-lg text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
-          sapiente possimus officia. Laudantium, in omnis? Dolorum eveniet
-          assumenda corrupti est nihil! Possimus, voluptatem voluptate?
-          Praesentium odit voluptatibus laborum rerum quod.
+          Hello, my name is Zaky Syihab Hatmoko. I am a final year undergraduate
+          student attending Computer Science Major at Universitas Gadjah Mada.
+          <br />
+          I love to create a beautiful and functional website to use from mobile
+          to desktop.
+          <br />I am passionate about learning new things, currently engrossed
+          in Frontend Web Development.
         </p>
       </div>
     </div>
